@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/619ef236-f4a8-4153-9fc0-cad495bea186/resourceGroups/myappservices_rg/providers/Microsoft.Web/sites/phprequest",
+    "appService.deploySubpath": "."
+}
